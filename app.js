@@ -194,7 +194,6 @@ Be sure to keep the font uniform in size. Be sure to maintain the same case as t
 
             // Use the dedicated Gemini Pro Image Edit model via Google AI Studio Developer API
             // This mirrors the N8N node's explicit "Edit Image" model choice
-            const apiKey = 'AIzaSyA9B8qXGi0UpmKtQkbCX1HrfsGrkimub8A';
             const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-3-pro-image-preview:generateContent?key=${apiKey}`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
