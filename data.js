@@ -8,7 +8,7 @@ const configData = {
             name: 'AFK',
             assets: {
                 youtube_thumbnail: 'https://raw.githubusercontent.com/hermstadalex/n8nassets/refs/heads/main/afkYT.jpg',
-                podcast_art: 'https://raw.githubusercontent.com/hermstadalex/n8nassets/refs/heads/main/AFK202_episode_art.jpg'
+                podcast_art: 'https://raw.githubusercontent.com/hermstadalex/n8nassets/refs/heads/main/image-20.jpg'
             }
         },
         {
